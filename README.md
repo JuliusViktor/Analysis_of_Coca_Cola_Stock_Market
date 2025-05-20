@@ -1,1 +1,5 @@
 # Analysis_of_Coca_Cola_Stock_Market
+
+to view the dashboard here is the link
+https://app.powerbi.com/view?r=eyJrIjoiNzEyMjllM2MtZGE1My00ZWYxLThkZGYtNDJlNmViNGRmNjQ3IiwidCI6IjM0ODViOTYzLTgyYmEtNGE2Zi04MTBmLWI1Y2MyMjZmZjg5OCIsImMiOjEwfQ%3D%3D
+
